@@ -1,3 +1,4 @@
 Mars is red
 Mars is not blue
 Mars is not green
+Mars is not purple
